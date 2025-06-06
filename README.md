@@ -12,5 +12,5 @@ Para preparar sus entornos y ejecutar los notebooks necesitaran:
 
 ### Importante:
 
-**El archivo [setup_env.md](/setup_env.md) contiene una guía paso a paso para replicar el entorno exacto que utilicé para preparar los notebooks.**
+**El archivo [setup_env.md](/setup_env.md) contiene una guía paso a paso para replicar el entorno que utilicé para preparar los notebooks.**
 
