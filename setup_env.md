@@ -42,11 +42,11 @@ Luego instalamos Python:
 ```bash
 conda install python=3.10.0
 ```
-## 6. Instalar las librerias usando el archivo *requeriments.txt*
+## 6. Instalar las librerias usando el archivo *requirements.txt*
 Finalmente instalamos las librerias necesarias usando el comando:
 
 ```bash
-pip install -r [path_to_the_requeriments.txt]
+pip install -r [path_to_the_requirements.txt]
 ```
 
 Nuestro ambiente de trabajo esta listo para usar :smile: !
