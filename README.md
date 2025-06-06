@@ -2,7 +2,7 @@
 
 ## Requisitos:
 
-Para preparar tus entornos y ejecutar los siguientes notebooks. Necesitarás al menos:
+Para preparar sus entornos y ejecutar los siguientes notebookM neecesitaran al menos:
 
 1. Un sistema de gestión de entornos: **Recomendaría cualquier variante de conda, aunque prefiero ```miniconda```**.
 
@@ -10,6 +10,7 @@ Para preparar tus entornos y ejecutar los siguientes notebooks. Necesitarás al 
 
 3. Los paquetes detallados en el archivo ```requirements.txt```.
 
+### Importante:
 
-El archivo [setup_env.md](/setup_env.md) contiene una guía paso a paso para replicar el entorno exacto que utilicé para preparar los notebooks.
+**El archivo [setup_env.md](/setup_env.md) contiene una guía paso a paso para replicar el entorno exacto que utilicé para preparar los notebooks.**
 
