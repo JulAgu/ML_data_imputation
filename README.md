@@ -2,7 +2,7 @@
 
 ## Requisitos:
 
-Para preparar sus entornos y ejecutar los siguientes notebookM neecesitaran al menos:
+Para preparar sus entornos y ejecutar los notebooks necesitaran:
 
 1. Un sistema de gestión de entornos: **Recomendaría cualquier variante de conda, aunque prefiero ```miniconda```**.
 
