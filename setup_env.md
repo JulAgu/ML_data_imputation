@@ -38,20 +38,20 @@ conda activate ML_imputation
 ```
 
 Luego instalamos Python:
-
 ```bash
 conda install python=3.10.0
 ```
-En el caso de fallos, podemos especificar un canal mas amplio:
 
+En el caso de fallos, podemos especificar un canal mas amplio:
 ```bash
 conda install -c conda-forge python=3.10.0
 ```
-Si los problemas persisten, se puede instalar una versión más flexible:
 
+Si los problemas persisten, se puede instalar una versión más flexible:
 ```bash
 conda install python=3.10
 ```
+
 ## 6. Instalar las librerias usando el archivo *requirements.txt*
 Finalmente instalamos las librerias necesarias usando el comando:
 
