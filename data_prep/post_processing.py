@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("src/om_data.csv", encoding="UTF-8")
+df = pd.read_csv("src/raw_om_data.csv", encoding="UTF-8")
 df = df.loc[:, ["date", "latitude", "longitude",
                 "elevation", "temperature_2m_mean", "temperature_2m_max",
                 "temperature_2m_min", "precipitation_sum", "daylight_duration", "wind_speed_10m_max",
